@@ -4,6 +4,9 @@
   "description": "Faster to compare AI-generated code(or any code) with your own code.",
   "version": "0.0.1",
   "publisher": "cjwn",
+  "author": {
+    "name": "Jiawei Chen",
+    "email": "atom.cn@gmail.com",
   "repository": {
     "type": "git",
     "url": "https://github.com/cjwn/vscode-plugin-aicodehelper.git"
