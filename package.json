@@ -4,6 +4,10 @@
   "description": "Faster to compare AI-generated code(or any code) with your own code.",
   "version": "0.0.1",
   "publisher": "cjwn",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cjwn/vscode-plugin-aicodehelper.git"
+  },
   "engines": {
     "vscode": "^1.92.0"
   },
